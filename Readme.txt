@@ -1,0 +1,1 @@
+esse projeto contem o resultado da melhor rede siamesa treinada para o tcc
